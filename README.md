@@ -1,14 +1,10 @@
-This is an exercise from the MOOC Experimentation for improvement. R language.
-
-![energy-delivery-efficiency](https://github.com/alexandrenm/Solar-Energy-Improvement/blob/master/energy_delivery_efficiency.png)
-
 # Project Title
 
 Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is an exercise from the MOOC Experimentation for improvement.
 
 ## Getting Started
 
@@ -19,7 +15,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Installing
 
-* How/where to download your program
+* From https://www.rstudio.com/
 * Any modifications needed to be made to files/folders
 
 ### Executing program
@@ -29,6 +25,7 @@ An in-depth paragraph about your project and overview of use.
 ```
 code blocks for commands
 ```
+![energy-delivery-efficiency](https://github.com/alexandrenm/Solar-Energy-Improvement/blob/master/energy_delivery_efficiency.png)
 
 ## Help
 
